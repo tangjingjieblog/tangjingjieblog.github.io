@@ -1,0 +1,9 @@
+top_img: /img/blockchain-banner.jpeg
+index_img: /img/blockchain-banner.jpeg
+cover:
+  enable: true
+  default_cover: /img/blockchain-banner.jpeg
+
+avatar:
+  img: /img/chain-logo.png
+  effect: false
